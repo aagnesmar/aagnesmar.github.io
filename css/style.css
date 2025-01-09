@@ -47,6 +47,11 @@ h3 {
     font-size: 30px;
 }
 
+#desc {
+    text-align: center;
+    font-size: 20px;
+}
+
 p {
     font-size: 25px;
 }
@@ -54,6 +59,7 @@ p {
 img {
     border-radius: 12%;
 }
+
 
 
 #intro-container {
@@ -191,7 +197,8 @@ img {
 #likes-container {
     font-size: 15px;
     margin: 30px;
-    border: 5px solid;
+    font-style: italic;
+    
 }
 
 #likes {
@@ -199,6 +206,8 @@ img {
     margin: 10px;
     color: #6D965A;
 }
+
+
 
 footer {
     bottom: 0;
